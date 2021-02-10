@@ -5,9 +5,9 @@ import os
 base_url = "https://api.trello.com/1/"
 
 # These need to be changed to change the board
-board_id = "602193113973ca283c4d74cf"
-key = "0f6d29c5bc1a1b05d742108808270145"
-token = "c088efb7f460db41bfff94c524e80d8a6e93aaa840ef4db91e5dadcd9547cf5e"
+board_id = ""
+key = ""
+token = ""
 
 '''
 Some assumptions:
